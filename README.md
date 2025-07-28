@@ -1,5 +1,7 @@
 # Japanese Weather MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@kongyo2/japanese-weather-mcp)](https://smithery.ai/server/@kongyo2/japanese-weather-mcp)
+
 A Model Context Protocol (MCP) server that provides access to Japanese weather forecasts using the [weather.tsukumijima.net](https://weather.tsukumijima.net/) API.
 
 ## Features
@@ -12,6 +14,15 @@ A Model Context Protocol (MCP) server that provides access to Japanese weather f
 
 ## Installation
 
+### Installing via Smithery
+
+To install japanese-weather-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kongyo2/japanese-weather-mcp):
+
+```bash
+npx -y @smithery/cli install @kongyo2/japanese-weather-mcp --client claude
+```
+
+### Manual Installation
 1. Clone this repository:
 
 ```bash

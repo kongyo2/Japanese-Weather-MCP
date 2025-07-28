@@ -26,7 +26,7 @@ npx -y @smithery/cli install @kongyo2/japanese-weather-mcp --client claude
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kongyo2/Japanese-Weather-MCP
 cd weather-mcp-server
 ```
 

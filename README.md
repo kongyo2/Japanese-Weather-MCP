@@ -2,6 +2,10 @@
 
 [![smithery badge](https://smithery.ai/badge/@kongyo2/japanese-weather-mcp)](https://smithery.ai/server/@kongyo2/japanese-weather-mcp)
 
+<a href="https://glama.ai/mcp/servers/@kongyo2/Japanese-Weather-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kongyo2/Japanese-Weather-MCP/badge" />
+</a>
+
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kongyo2/Japanese-Weather-MCP)
 
 A Model Context Protocol (MCP) server that provides access to Japanese weather forecasts using the [weather.tsukumijima.net](https://weather.tsukumijima.net/) API.

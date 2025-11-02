@@ -6,6 +6,10 @@
 
 A Model Context Protocol (MCP) server that provides access to Japanese weather forecasts using the [weather.tsukumijima.net](https://weather.tsukumijima.net/) API.
 
+<a href="https://glama.ai/mcp/servers/@kongyo2/Japanese-Weather-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kongyo2/Japanese-Weather-MCP/badge" alt="Japanese Weather Server MCP server" />
+</a>
+
 ## Features
 
 - 🌤️ Get weather forecasts for Japanese cities
